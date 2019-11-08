@@ -1,0 +1,284 @@
+D:\Itaka\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+D:\Itaka\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+D:\Itaka\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+D:\Itaka\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+D:\Itaka\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+D:\Itaka\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+D:\Itaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+D:\Itaka\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+D:\Itaka\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+D:\Itaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+D:\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csprojAssemblyReference.cache
+D:\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+D:\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+D:\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.cache
+D:\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+D:\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CopyComplete
+D:\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+D:\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+D:\Itaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+D:\Itaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csprojAssemblyReference.cache
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.cache
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CopyComplete
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+C:\Users\x20126654\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csprojResolveAssemblyReference.cache
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.Cache
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+C:\Users\1142451\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csprojResolveAssemblyReference.cache
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.Cache
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CopyComplete
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+C:\Users\Usuario\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csprojAssemblyReference.cache
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.cache
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CopyComplete
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CopyComplete
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csprojAssemblyReference.cache
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.cache
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CopyComplete
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+C:\Users\alexs\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.cache
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CopyComplete
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csprojAssemblyReference.cache
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.ListaProfessor.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csprojAssemblyReference.cache
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.ListaProfessor.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.cache
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CopyComplete
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+C:\Users\Usuario\Downloads\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.ListaProfessor.resources
+D:\Nova pasta\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+D:\Nova pasta\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+D:\Nova pasta\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+D:\Nova pasta\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+D:\Nova pasta\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+D:\Nova pasta\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+D:\Nova pasta\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+D:\Nova pasta\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nova pasta\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+D:\Nova pasta\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+D:\Nova pasta\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+D:\Nova pasta\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nova pasta\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csprojAssemblyReference.cache
+D:\Nova pasta\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+D:\Nova pasta\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.ListaProfessor.resources
+D:\Nova pasta\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+D:\Nova pasta\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.cache
+D:\Nova pasta\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+D:\Nova pasta\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CopyComplete
+D:\Nova pasta\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+D:\Nova pasta\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.ListaProfessor.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.cache
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CopyComplete
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csprojAssemblyReference.cache
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.exe
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.pdb
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe.config
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.exe
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\bin\Debug\AppProfessor.pdb
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.dll
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.pdb
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\bin\Debug\CadastroItaka.dll.config
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.xml
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.ListaProfessor.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.cache
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+C:\Users\x16570530\Desktop\CadastroItaka\AppProfessor\obj\Debug\AppProfessor.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\bin\Debug\AppProfessor.exe.config
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\bin\Debug\AppProfessor.exe
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\bin\Debug\AppProfessor.pdb
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\bin\Debug\CadastroItaka.dll
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\bin\Debug\CadastroItaka.pdb
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\bin\Debug\CadastroItaka.dll.config
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\obj\Debug\AppProfessor.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\obj\Debug\AppProfessor.CadProfessor.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\obj\Debug\AppProfessor.ListaProfessor.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\obj\Debug\AppProfessor.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\obj\Debug\AppProfessor.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\obj\Debug\AppProfessor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\obj\Debug\AppProfessor.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\obj\Debug\AppProfessor.exe
+C:\Users\Usuario\Desktop\ItakaSistema\AppProfessor\obj\Debug\AppProfessor.pdb

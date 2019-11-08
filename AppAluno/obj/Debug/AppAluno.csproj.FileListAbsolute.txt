@@ -1,0 +1,391 @@
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\App Data\dbItaka.mdf
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\App Data\dbItaka_log.ldf
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\DAO.dll
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\DAO.pdb
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\DAO.dll.config
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAluno.resources
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+E:\Faculdade\FSI\Trabalho Extensão\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAluno.resources
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+D:\Itaka\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+D:\Itaka\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+D:\Itaka\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+D:\Itaka\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+D:\Itaka\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+D:\Itaka\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+D:\Itaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+D:\Itaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+D:\Itaka\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+D:\Itaka\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+D:\Itaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+D:\Itaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Frequencia.resources
+D:\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Frequencia.resources
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\x20126654\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojResolveAssemblyReference.cache
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.Frequencia.resources
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.Cache
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\1142451\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojResolveAssemblyReference.cache
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.Cache
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.AppFrequencia.resources
+C:\Users\Usuario\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+C:\Users\Usuario\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+C:\Users\Usuario\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+C:\Users\Usuario\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+C:\Users\Usuario\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\Usuario\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.AppFrequencia.resources
+C:\Users\Usuario\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\Usuario\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\Usuario\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.AppFrequencia.resources
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.AppFrequencia.resources
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.AppFrequencia.resources
+C:\Users\alexs\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.AppFrequencia.resources
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.AppFrequencia.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.ListaResponsavel.resources
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.ListaResponsavel.resources
+C:\Users\Usuario\Downloads\CadastroItaka\AppAluno\obj\Debug\AppAluno.ListaDependente.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppAluno\obj\Debug\AppAluno.ListaDependente.resources
+D:\Nova pasta\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+D:\Nova pasta\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+D:\Nova pasta\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+D:\Nova pasta\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+D:\Nova pasta\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+D:\Nova pasta\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+D:\Nova pasta\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+D:\Nova pasta\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nova pasta\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+D:\Nova pasta\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+D:\Nova pasta\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+D:\Nova pasta\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.ListaDependente.resources
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.ListaResponsavel.resources
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.AppFrequencia.resources
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+D:\Nova pasta\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.ListaDependente.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.ListaResponsavel.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.AppFrequencia.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.pdb
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe.config
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\bin\Debug\AppAluno.exe
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\bin\Debug\AppAluno.pdb
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\bin\Debug\EntityFramework.dll
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.pdb
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\bin\Debug\CadastroItaka.dll.config
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\bin\Debug\EntityFramework.xml
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.ListaDependente.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.ListaResponsavel.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.CadLista.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.AppFrequencia.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\x16570530\Desktop\CadastroItaka\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\bin\Debug\AppAluno.exe.config
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\bin\Debug\AppAluno.exe
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\bin\Debug\AppAluno.pdb
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\bin\Debug\CadastroItaka.dll
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\bin\Debug\CadastroItaka.pdb
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\bin\Debug\CadastroItaka.dll.config
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.Cadastros.CADAluno.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.Cadastros.CADResponsavelAluno.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.ListaDependente.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.ListaResponsavel.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.CadAlunoNaTurma.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.CadLista.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.AppFrequencia.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.Presença.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.exe
+C:\Users\Usuario\Desktop\ItakaSistema\AppAluno\obj\Debug\AppAluno.pdb

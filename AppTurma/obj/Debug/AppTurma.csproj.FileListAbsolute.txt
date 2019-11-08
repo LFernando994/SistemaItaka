@@ -1,0 +1,305 @@
+C:\Users\Gabi\source\repos\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\Gabi\source\repos\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\Gabi\source\repos\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\Gabi\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+C:\Users\Gabi\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\Gabi\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\Gabi\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+C:\Users\Gabi\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\Gabi\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\alexs\OneDrive\Área de Trabalho\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+D:\Itaka\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+D:\Itaka\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+D:\Itaka\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+D:\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+D:\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+D:\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+D:\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+D:\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+D:\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+D:\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+D:\Itaka\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+D:\Itaka\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+D:\Itaka\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+D:\Itaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+D:\Itaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+D:\Itaka\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+D:\Itaka\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+D:\Itaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+D:\Itaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+D:\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CopyComplete
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CopyComplete
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\x20126654\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojResolveAssemblyReference.cache
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.Cache
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\1142451\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojResolveAssemblyReference.cache
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.Cache
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\1008770\Desktop\CadastroItaka - 28-11\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CopyComplete
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\Usuario\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CopyComplete
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\alexs\source\repos\CadastroItaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CopyComplete
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CopyComplete
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\alexs\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CopyComplete
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\Alexsander Santiago\source\repos\CadastroItaka\AppTurma\obj\Debug\AppTurma.ListaTurma.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.ListaTurma.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CopyComplete
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\Rafae\Desktop\Itaka\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\Usuario\Downloads\CadastroItaka\AppTurma\obj\Debug\AppTurma.ListaTurma.resources
+D:\Nova pasta\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+D:\Nova pasta\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+D:\Nova pasta\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+D:\Nova pasta\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+D:\Nova pasta\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+D:\Nova pasta\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+D:\Nova pasta\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+D:\Nova pasta\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nova pasta\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+D:\Nova pasta\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+D:\Nova pasta\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+D:\Nova pasta\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nova pasta\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+D:\Nova pasta\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+D:\Nova pasta\CadastroItaka\AppTurma\obj\Debug\AppTurma.ListaTurma.resources
+D:\Nova pasta\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+D:\Nova pasta\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+D:\Nova pasta\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+D:\Nova pasta\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CopyComplete
+D:\Nova pasta\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+D:\Nova pasta\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\obj\Debug\AppTurma.ListaTurma.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CopyComplete
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\Alexsander Santiago\source\repos\Studies\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.pdb
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\bin\Debug\EntityFramework.dll
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.pdb
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\bin\Debug\CadastroItaka.dll.config
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\bin\Debug\EntityFramework.xml
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.ListaTurma.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\x16570530\Desktop\CadastroItaka\AppTurma\obj\Debug\AppTurma.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\bin\Debug\App_Data\DbItaka.mdf
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\bin\Debug\App_Data\DbItaka_log.ldf
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\bin\Debug\AppTurma.exe.config
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\bin\Debug\AppTurma.exe
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\bin\Debug\AppTurma.pdb
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\bin\Debug\CadastroItaka.dll
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\bin\Debug\CadastroItaka.pdb
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\bin\Debug\CadastroItaka.dll.config
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\obj\Debug\AppTurma.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\obj\Debug\AppTurma.CadTurma.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\obj\Debug\AppTurma.ListaTurma.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\obj\Debug\AppTurma.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\obj\Debug\AppTurma.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\obj\Debug\AppTurma.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\obj\Debug\AppTurma.csproj.CopyComplete
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\obj\Debug\AppTurma.exe
+C:\Users\Usuario\Desktop\ItakaSistema\AppTurma\obj\Debug\AppTurma.pdb
